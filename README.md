@@ -1,12 +1,12 @@
 # Monitoreo Predictivo de Pozos con Hydrogdatos
 
-Este repositorio contiene el desarrollo de un modelo predictivo basado en datos del sistema único, utilizado para el monitoreo y análisis de pozos. 
+Este repositorio contiene el desarrollo de un proceso ETL basado en datos del sistema único, utilizado para el monitoreo y análisis de pozos.
 
 En la reunión sobre el monitoreo de pozos con Hydrogdatos, se destacó la importancia de que un ingeniero de pozo pueda interpretar variables clave para ajustar el funcionamiento del equipo y tomar decisiones cruciales, como modificar la velocidad de la máquina o detectar la presencia de gas o arena.
 
-El modelo desarrollado utiliza datos en tiempo real para prever problemas potenciales, como el arenamiento de pozos, y permitir la toma de decisiones informadas para optimizar las operaciones y minimizar riesgos.
+El proceso ETL desarrollado extrae, transforma y carga datos en tiempo real, permitiendo prever problemas potenciales como el arenamiento de pozos, lo que facilita la toma de decisiones informadas para optimizar las operaciones y minimizar riesgos.
 
-Este proyecto tiene como objetivo mejorar la eficiencia y seguridad en la operación de pozos, aplicando técnicas de análisis predictivo a datos de monitoreo.
+Este proyecto tiene como objetivo mejorar la eficiencia y seguridad en la operación de pozos, aplicando técnicas de procesamiento de datos a través de un flujo ETL para el monitoreo efectivo.
 
 ![](images/apache-spark-python-pyspark.jpg)
 
